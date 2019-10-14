@@ -79,4 +79,6 @@ TODO
 
 ## Heterogeneous Network
 
-TODO
+[Enabling Heterogeneous Network Function Chaining](https://github.com/ZexinLee/Senior-Design/blob/master/Heterogeneous%20Network/Cui%20et%20al.%20-%202019%20-%20Enabling%20Heterogeneous%20Network%20Function%20Chaining-annotated.pdf)
+
+Published: IEEE Transactions on Parallel and Distributed Systems ( Volume: 30 , Issue: 4 , April 1 2019 )
