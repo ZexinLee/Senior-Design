@@ -83,3 +83,17 @@ TODO
 
 Published: IEEE Transactions on Parallel and Distributed Systems ( Volume: 30 , Issue: 4 , April 1 2019 )       
 
+## Quickhand ACM MM 2019
+
+17.[Livesmart: a QoS-Guaranteed Cost-Minimum Framework of Viewer Scheduling for Crowdsourced Live Streaming](https://github.com/ZexinLee/Senior-Design/blob/master/Quickhand MM/p420-zhang.pdf)
+
+Published: ACM Multimedia 2019
+
+18.[Comyco: Quality-Aware Adaptive Video Streaming via Imitation Learning](https://github.com/ZexinLee/Senior-Design/blob/master/Quickhand MM/p429-huang.pdf)
+
+Published: ACM Multimedia 2019
+
+19.[Explainable Interaction-driven User Modeling over Knowledge Graph for Sequential Recommendation](https://github.com/ZexinLee/Senior-Design/blob/master/Quickhand MM/p548-huang.pdf)
+
+Published: ACM Multimedia 2019
+
