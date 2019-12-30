@@ -83,7 +83,7 @@ TODO
 
 Published: IEEE Transactions on Parallel and Distributed Systems ( Volume: 30 , Issue: 4 , April 1 2019 )       
 
-## Quickhand ACM MM 2019
+## Kwai Inc. ACM MM 2019
 
 17.[Livesmart: a QoS-Guaranteed Cost-Minimum Framework of Viewer Scheduling for Crowdsourced Live Streaming](https://github.com/ZexinLee/Senior-Design/blob/master/Quickhand%20MM/p420-zhang.pdf)
 
